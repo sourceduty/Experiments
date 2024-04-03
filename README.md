@@ -121,6 +121,47 @@ In each scenario, the stability conferred by the COM interacts with other factor
 <br>    
 </details>
 
+<details><summary>Baseball Curveball</summary>
+<br>
+ 
+![Baseball](https://github.com/sourceduty/Experiments/assets/123030236/843b6014-2278-422b-bf70-50fa722d5700)
+
+To explain the trajectory of a curveball in baseball using Newton's laws, we focus on how these laws apply to the forces acting on the ball. Newton's three laws of motion provide a fundamental framework for understanding the behavior of objects in motion, including baseballs:
+
+1. Newton's First Law (Law of Inertia)
+
+   - An object remains at rest or in uniform motion in a straight line unless acted upon by an external force.
+   - For a curveball, this means without external forces, it would move in a straight line. However, forces like gravity, drag, and lift from the Magnus effect significantly alter its path.
+
+2. Newton's Second Law (Law of Acceleration)
+
+   - The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass (F = ma).
+
+   For a curveball:
+   
+   - Gravity applies a constant downward force (F_gravity = mg).
+   - Drag opposes motion, reducing speed (F_drag = -1/2 * rho * v^2 * Cd * A), where rho is air density, v is velocity, Cd is drag coefficient, and A is cross-sectional area.
+   - Magnus Effect creates a lift force due to the ball's spin, affecting its movement (F_Magnus = 4/3 * pi * a^3 * rho * omega * v), where a is the radius, omega is the angular velocity (spin), and v is the linear velocity.
+
+4. Newton's Third Law (Action and Reaction)
+   
+   - For every action, there is an equal and opposite reaction.
+   - When pitching, the force on the ball by the hand is matched by an equal and opposite force by the ball on the hand. This law is crucial in the ball's initial motion but less so in the trajectory.
+
+Calculating the Curveball Trajectory
+
+- Set up equations of motion for x (horizontal) and y (vertical) directions:
+  - F_x_total = F_drag_x + F_Magnus_x
+  - F_y_total = F_gravity + F_drag_y + F_Magnus_y
+
+- Solve the differential equations using numerical methods like Euler or Runge-Kutta, given initial conditions and force values.
+- The solution shows the baseball's position and velocity at each time step, demonstrating the curveball's path deviation due to the Magnus effect, gravity, and drag.
+
+By applying Newton's laws, we can understand the forces involved and predict the curved trajectory of a curveball. This approach simplifies the complex interactions but captures the essential physics behind the curveball's motion.
+
+<br>    
+</details>
+
 ***
 
 🛈 This is free and open-source; anyone can redistribute it and/or modify it.
