@@ -55,7 +55,7 @@ Keep in mind that these are estimated values for signal loss and actual results 
 <br>    
 </details>
 
-<details><summary>Enclosed Wi-fi Router Experiment</summary>
+<details><summary>Center of mass (COM) of the Samsung Galaxy Z Flip 4</summary>
 <br>
 
 ![Center of Mass](https://github.com/sourceduty/Experiments/assets/123030236/90651028-e471-4c70-b693-268de500a13d)
