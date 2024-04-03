@@ -1,6 +1,13 @@
-![Router](https://github.com/sourceduty/Experiments/assets/123030236/eab4f236-a257-498f-93f5-114c838bc22e)
+![Lab](https://github.com/sourceduty/Experiments/assets/123030236/818462e0-01cb-40f9-b7d6-63de829a02d0)
 
-### Enclosed Wi-fi Router Experiment
+Scientific experminetation by Sourceduty in a journey across various fields of science, delving into captivating inquiries that push the boundaries of human understanding. Explore the fascinating landscape of Sourceduty scientific discovery, where each experiment holds the promise of uncovering new insights and reshaping our understanding of the world around us.
+
+#
+
+<details><summary>Enclosed Wi-fi Router Experiment</summary>
+<br>
+
+![Router](https://github.com/sourceduty/Experiments/assets/123030236/eab4f236-a257-498f-93f5-114c838bc22e)
 
 Enclosing a Wi-Fi router in different materials can significantly impact the strength and quality of the Wi-Fi signal due to the materials' ability to absorb or reflect radio waves. Here's a simplified simulation of how various common materials might affect Wi-Fi signal strength:
 
@@ -44,6 +51,41 @@ Here's a simplified simulation of estimated signal loss for common materials:
 **Water:** 15-20 dB per meter. Water absorbs RF energy, so passing a Wi-Fi signal through a large aquarium or a similar body of water can significantly weaken it.
 
 Keep in mind that these are estimated values for signal loss and actual results can vary. Signal attenuation also depends on the cumulative effect of all materials and objects in the signal's path, as well as the router's specific characteristics and the environmental context. For practical Wi-Fi deployment, it's important to minimize obstructions and materials in the signal path that can significantly degrade signal quality.
+
+<br>    
+</details>
+
+<details><summary>Enclosed Wi-fi Router Experiment</summary>
+<br>
+
+![Center of Mass](https://github.com/sourceduty/Experiments/assets/123030236/90651028-e471-4c70-b693-268de500a13d)
+
+The center of mass (COM) of the Samsung Galaxy Z Flip 4, assuming uniform density for simplicity, lies at the geometric center in both its folded and unfolded states. In its folded state, with dimensions 84.9 x 71.9 x 16.5 mm (averaging the thickness), the COM is approximately 42.45 mm from the bottom edge, 35.95 mm from the side, and 8.25 mm deep. Unfolded, at 165.2 x 71.9 x 6.9 mm, the COM shifts to 82.6 mm from the bottom, remains 35.95 mm from the side, and is 3.45 mm deep. This simplistic model doesn't account for the non-uniform distribution of internal components or the intricate hinge mechanism in the folded state, which could notably alter the actual COM.
+
+### Folded State
+
+- Dimensions: 84.9 mm (height) x 71.9 mm (width) x 16.5 mm (average thickness)
+- COM Position (from the bottom edge, assuming the phone stands on one of the 71.9 mm sides):
+  - COM height = 84.9 mm / 2 = 42.45 mm
+  - COM width = 71.9 mm / 2 = 35.95 mm
+  - COM depth = 16.5 mm / 2 = 8.25 mm
+
+### Unfolded State
+
+- Dimensions: 165.2 mm (height) x 71.9 mm (width) x 6.9 mm (thickness)
+- COM Position (from the bottom edge, with the phone standing on one of the 71.9 mm sides):
+  - COM height = 165.2 mm / 2 = 82.6 mm
+  - COM width = 71.9 mm / 2 = 35.95 mm
+  - COM depth = 6.9 mm / 2 = 3.45 mm
+
+### Considerations
+
+- The actual mass distribution in a smartphone is not uniform due to internal components, causing deviations from these calculated COM positions.
+- In the folded state, the hinge and differential mass distribution between halves complicate COM calculation.
+- For precise COM determination, especially folded, a complex model accounting for internal mass distribution or experimental methods might be needed.
+
+<br>    
+</details>
 
 ***
 
