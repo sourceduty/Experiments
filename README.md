@@ -84,6 +84,40 @@ The center of mass (COM) of the Samsung Galaxy Z Flip 4, assuming uniform densit
 - In the folded state, the hinge and differential mass distribution between halves complicate COM calculation.
 - For precise COM determination, especially folded, a complex model accounting for internal mass distribution or experimental methods might be needed.
 
+### Stability
+
+The stability of an object like the Samsung Galaxy Z Flip 4, influenced by its center of mass (COM), can vary significantly across different scenarios.
+
+1. Resting on a Surface:
+
+   - Folded: Lower COM makes it more stable against tipping. Smaller base area may reduce stability against sliding.
+   - Unfolded: Higher COM makes it less stable against tipping but larger base area improves stability against sliding.
+
+2. Spinning:
+
+   - Folded: Lower COM enhances spinning stability, reducing wobble. Smaller moment of inertia may affect spin smoothness and duration.
+   - Unfolded: Higher COM could increase wobble, but larger moment of inertia allows for smoother, longer spins.
+
+3. Being Held or Manipulated:
+
+   - The COM affects handling comfort and security. Folded state may feel more balanced, while unfolded might feel top-heavy, especially with one-hand use.
+
+4. Mounted or Docked:
+
+   - Folded: Lower COM offers stability in mounts, reducing tipping likelihood.
+   - Unfolded: Higher COM requires mount designs to counteract potential instability by supporting the device lower or increasing the mount's base area.
+
+5. In Motion (e.g., in a moving vehicle):
+
+   - A lower COM (folded) means less likelihood of tipping over with sudden movements. The unfolded state, with its higher COM, might be more prone to tipping with sharp turns or sudden stops.
+
+6. Vibration Resistance:
+
+   - Folded: Lower COM makes the device more resistant to being moved or tipped over by external vibrations.
+   - Unfolded: Higher COM makes it more susceptible to vibrations, potentially causing it to move more easily.
+     
+In each scenario, the stability conferred by the COM interacts with other factors, like the base area, friction with the surface, external forces, and the moment of inertia. These examples highlight how the state of the device (folded vs. unfolded) can lead to different stability outcomes depending on the specific situation and environmental conditions.
+
 <br>    
 </details>
 
